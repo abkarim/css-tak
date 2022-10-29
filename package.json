@@ -1,0 +1,24 @@
+{
+  "name": "css-components",
+  "version": "0.0.1",
+  "description": "A npm package that provides animate and static component for build UI so fast with open source community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abkarim/css-components.git"
+  },
+  "keywords": [
+    "css",
+    "components",
+    "animate"
+  ],
+  "author": "community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abkarim/css-components/issues"
+  },
+  "homepage": "https://github.com/abkarim/css-components#readme"
+}

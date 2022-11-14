@@ -1,24 +1,23 @@
 {
-  "name": "css-components",
-  "version": "0.0.1",
-  "description": "A npm package that provides animate and static component for build UI so fast with open source community",
+  "name": "css-tak",
+  "version": "0.1.0",
+  "description": "A component based CSS library that provides only used component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abkarim/css-components.git"
+    "url": "git+https://github.com/abkarim/css-tak.git"
   },
   "keywords": [
-    "css",
-    "components",
-    "animate"
+    "css-components",
+    "animation"
   ],
-  "author": "community",
+  "author": "abkarim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abkarim/css-components/issues"
+    "url": "https://github.com/abkarim/css-tak/issues"
   },
-  "homepage": "https://github.com/abkarim/css-components#readme"
+  "homepage": "https://github.com/abkarim/css-tak#readme"
 }
